@@ -64,10 +64,10 @@ Ouvrir dans le navigateur | Open in browser: http://localhost:5173
 ## 📸 Captures d’écran | Screenshots
 
 ### Formulaire de prise de rendez-vous  
-![Formulaire](./assets/form.png)
+![Formulaire](./assets/form.PNG)
 
 ### Liste de rendez-vous avec gestion de statut  
-![Liste](./assets/list.png)
+![Liste](./assets/list.PNG)
 
 
 ---
