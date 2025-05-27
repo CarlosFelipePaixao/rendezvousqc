@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1748381632978,
+    "name": "Carlos Felipe da Paixão",
+    "datetime": "2025-05-13T21:33:00.000Z",
+    "email": "paixao.carlosfelipe@gmail.com",
+    "phone": "41995204063",
+    "status": "confirmado"
+  },
+  {
+    "id": 1748381854538,
+    "name": "Sabrina Meltz",
+    "datetime": "2025-05-06T21:37:00.000Z",
+    "email": "sabrinametlz@gmail.com",
+    "phone": "554411293912",
+    "status": "pendente"
+  }
+]
